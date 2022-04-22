@@ -1,9 +1,10 @@
-Hola 👋, soy Ignacio Calvagna .
+<h1>Hola 👋, soy Ignacio Calvagna .</h1>
+<hr>
 <br>
 <a href="https://www.linkedin.com/in/ignacio-calvagna/" targer="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-Ver mi Currículum Vitae.
+<hr>
+Ver mi  Currículum Vitae.
 Sobre mí:
 💻 Soy Full Stack Developer.
 📖 Siempre estoy aprendiendo algo nuevo.
