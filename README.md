@@ -7,7 +7,8 @@
 
 
 <hr>
-Ver mi  Currículum Vitae.
+Ver mi   <a href="#"><h2>Currículum Vitae</h2></a>.
+<br>
 Sobre mí:
 💻 Soy Full Stack Developer.
 📖 Siempre estoy aprendiendo algo nuevo.
