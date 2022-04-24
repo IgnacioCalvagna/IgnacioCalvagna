@@ -31,4 +31,4 @@ Sobre mí:
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
-HTML5 CSS3 JavaScript NodeJS PostgreSQL Express.js Sequelize React Redux Postman VsCode Netlify Notion Trello
+
