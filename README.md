@@ -1,5 +1,7 @@
 <h1>Hola 👋, soy Ignacio Calvagna .</h1>
 
+<p>Mi nombre es Ignacio Calvagna y soy Full-Stack Developer. Soy de Argentina y tengo muchas ganas de crecer en la industria y seguir aprendiendo.</p>
+<p>.</p>
 <div>
     <a href="https://www.linkedin.com/in/ignacio-calvagna/" targer="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
