@@ -10,7 +10,7 @@
 <h2>Mira mi portfolio</h2>
 
  <a href="https://mi-portfolio-rose.vercel.app/" targer="_blank">
- <img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)" /></a>
+ <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
  
  
  
