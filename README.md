@@ -7,7 +7,13 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
+<h2>Mira mi portfolio</h2>
 
+ <a href="https://mi-portfolio-rose.vercel.app/" targer="_blank">
+ <img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)" /></a>
+ 
+ 
+ 
 <hr>
 Ver mi   <a href="#"><h2>Currículum Vitae</h2></a>.
 <br>
