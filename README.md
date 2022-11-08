@@ -17,6 +17,8 @@
  
 <hr>
 Ver mi   <a href="#"><h2>Currículum Vitae</h2></a>.
+
+<input type="file" />
 <br>
 Sobre mí:
 
